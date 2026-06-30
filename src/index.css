@@ -497,7 +497,7 @@ header.hero {
 
 .cad-row {
   display: grid;
-  grid-template-columns: 90px 1fr;
+  grid-template-columns: 110px 1fr;
   background: var(--white);
   border-bottom: 1px solid var(--line);
 }

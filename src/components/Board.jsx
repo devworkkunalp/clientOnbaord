@@ -94,7 +94,7 @@ export default function Board() {
           <div className="section-label">Live workflow</div>
           <h2>This is what your project board looks like.</h2>
           <p>
-            Every engagement runs on a real Kanban board, broken into two-week sprints, backed by the full set of agile ceremonies. Drag a card below — this is the exact view you'd get access to from day one.
+            Every engagement runs on a real Kanban board, broken into 15-day sprints, backed by the full set of agile ceremonies. Drag a card below — this is the exact view you'd get access to from day one.
           </p>
         </div>
 
